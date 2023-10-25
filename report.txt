@@ -1,0 +1,10 @@
+Internship Assignment for NLP
+
+
+We are using langchain which is an framework for simplifying the creation of applications.
+In this application , have used Open AI model to generate Multiple choice questions.
+The Open AI was accessed by creating an API key and then saved in environment variable.
+
+To run this:
+1. Create an API key and store in environment variable 'OPENAI_API_KEY'.
+2. Run the script.py file.
